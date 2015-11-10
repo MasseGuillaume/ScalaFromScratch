@@ -1,0 +1,6 @@
+# Scala
+
+```
+$ sbt
+> kstart
+```
